@@ -50,7 +50,7 @@ p {
 	display: inline-block;
 	padding: 10px 30px;
 	color: white;
-	background-color: transparent;
+	background-color: blue;
 	border: 2px solid black;
 	font-size: 2rem;
 	text-transform: uppercase;
